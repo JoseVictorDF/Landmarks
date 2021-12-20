@@ -18,7 +18,7 @@
 /* Begin PBXFileReference section */
 		49DD7F8E27710E64007C0B97 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
 		49DD7F9027711362007C0B97 /* MapView.swift.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift.swift; sourceTree = "<group>"; };
-		49E426C92770A760001488EF /* Landmarks.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Landmarks.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		49E426C92770A760001488EF /* CreateAndCombiningViewsProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CreateAndCombiningViewsProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		49E426CC2770A760001488EF /* LandmarksApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarksApp.swift; sourceTree = "<group>"; };
 		49E426CE2770A760001488EF /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		49E426D02770A764001488EF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -47,7 +47,7 @@
 		49E426CA2770A760001488EF /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				49E426C92770A760001488EF /* Landmarks.app */,
+				49E426C92770A760001488EF /* CreateAndCombiningViewsProject.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -76,9 +76,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		49E426C82770A760001488EF /* Landmarks */ = {
+		49E426C82770A760001488EF /* CreateAndCombiningViewsProject */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 49E426D72770A764001488EF /* Build configuration list for PBXNativeTarget "Landmarks" */;
+			buildConfigurationList = 49E426D72770A764001488EF /* Build configuration list for PBXNativeTarget "CreateAndCombiningViewsProject" */;
 			buildPhases = (
 				49E426C52770A760001488EF /* Sources */,
 				49E426C62770A760001488EF /* Frameworks */,
@@ -88,9 +88,9 @@
 			);
 			dependencies = (
 			);
-			name = Landmarks;
+			name = CreateAndCombiningViewsProject;
 			productName = Landmarks;
-			productReference = 49E426C92770A760001488EF /* Landmarks.app */;
+			productReference = 49E426C92770A760001488EF /* CreateAndCombiningViewsProject.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -108,7 +108,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 49E426C42770A760001488EF /* Build configuration list for PBXProject "Landmarks" */;
+			buildConfigurationList = 49E426C42770A760001488EF /* Build configuration list for PBXProject "CreateAndCombiningViewsProject" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -121,7 +121,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				49E426C82770A760001488EF /* Landmarks */,
+				49E426C82770A760001488EF /* CreateAndCombiningViewsProject */,
 			);
 		};
 /* End PBXProject section */
@@ -290,7 +290,7 @@
 				);
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.example.apple-samplecode.Landmarks";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = CreateAndCombiningViewsProject;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -318,7 +318,7 @@
 				);
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.example.apple-samplecode.Landmarks";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = CreateAndCombiningViewaProject;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -328,7 +328,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		49E426C42770A760001488EF /* Build configuration list for PBXProject "Landmarks" */ = {
+		49E426C42770A760001488EF /* Build configuration list for PBXProject "CreateAndCombiningViewsProject" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				49E426D52770A764001488EF /* Debug */,
@@ -337,7 +337,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		49E426D72770A764001488EF /* Build configuration list for PBXNativeTarget "Landmarks" */ = {
+		49E426D72770A764001488EF /* Build configuration list for PBXNativeTarget "CreateAndCombiningViewsProject" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				49E426D82770A764001488EF /* Debug */,
